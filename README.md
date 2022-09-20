@@ -4,3 +4,8 @@ Inspired from my [liftoff portfolio](https://github.com/speudusa/liftoff-assignm
 
 ### Project Outline
 For this assignment, you will submit a high-level outline of your project. This can, and likely will, change over time. In particular, your mentor will provide direction and feedback to help sharpen your ideas. So don't worry if you feel unsure about some aspects of the outline or if you have to change some things later.
+
+## Group changes
+
+As a team, create a project outline.
+One team member should create the Project Repo (not the team leader).  remaining team members clone/fork and contribute.
