@@ -4,5 +4,21 @@ Inspired from my [liftoff portfolio](https://github.com/speudusa/liftoff-assignm
 
 ## Group changes
 
-As a team, create a project outline.
-One team member should create the Project Repo (not the team leader).  remaining team members clone/fork and contribute.
+### Repo Explanation
+In Liftoff we are focusing on two things: 
+- Your Team Project
+- Career Readiness skills 
+
+The repo will hold your work on your project.
+  
+You will use this repository in tandem with Canvas. All of your grades will be recorded in Canvas, but you will submit your work through this GitHub repository.
+
+We are making you use GitHub for two important reasons:
+  - You will get more practice with GitHub
+  - You will be able to share the story of your project. 
+
+### Next Step
+
+Now that you know what this repo is for let's get it set up.
+Click the [P1 - Assignment Repository Setup](https://github.com/speudusa/liftoff-project-assignments/tree/main/P1-AssignmentRepoSetup) repo for further instructions.
+
