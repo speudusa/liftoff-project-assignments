@@ -4,6 +4,8 @@ This repo will hold your work on your project.
   
 You will use this repository in tandem with Canvas. All of your grades will be recorded in Canvas, but you will submit your work through this GitHub repository.
 
+If asked to share updates or links for your project, this is the repository you will share.
+
 We are making you use GitHub for two important reasons:
   - You will get more practice with GitHub
   - You will be able to share the story of your project. 
